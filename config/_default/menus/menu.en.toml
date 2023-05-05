@@ -40,7 +40,7 @@
   name = "github"
   type = "social"
   weight = 1
-  url = "https://github.com/#"
+  url = "https://github.com/atiframzan89"
 [[social]]
   name = "twitter"
   weight = 2
@@ -48,7 +48,7 @@
 [[social]]
   name = "linkedin"
   weight = 3
-  url = "https://www.linkedin.com/in/#"
+  url = "https://www.linkedin.com/in/muhmmad-atif-ramzan-66409346"
 [[social]]
   name = "rss"
   weight = 4
