@@ -27,4 +27,5 @@ pg_restore --verbose --clean --no-acl --no-owner -c --host [db-endpoint-url] --u
 pg_restore --verbose --clean --no-acl --no-owner -c --host [db-endpoint-url] -j 2 --user [db-user] --dbname [db-name] ./backup-2023-05-02-custom.dump
 ```
 If you notice we have used the `-j` with 2 argument, if you dump file contains more data you need to increase the worker processor for the restore command so it restore it in parallel.
+
 7. Make sure that you have not got any errors while running the `pg_restore` command.
