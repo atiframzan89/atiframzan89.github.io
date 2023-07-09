@@ -6,9 +6,9 @@ description = "In this post we will be installing aws container insights for eks
 categories = [
     "aws"
 ]
-thumbnail = "images/aurora-postgres-image.png"
-shareImage = "images/aurora-postgres-image.png"
-featureImage = "images/aurora-postgres-image.png"
+thumbnail = "images\container-insights-1.png"
+shareImage = "images\container-insights-1.png"
+featureImage = "images\container-insights-1.png"
 
 +++
 
