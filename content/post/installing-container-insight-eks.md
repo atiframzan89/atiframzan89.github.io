@@ -70,7 +70,7 @@ $ helm -n wordpress install wordpress-app bitnami/wordpress
 To verify the deployment is successfull or not use the below command.
 
 ```
-$ kubectl -n wordpress-cwi rollout status deployment wordpress-app
+$ kubectl -n wordpress rollout status deployment wordpress-app
 ```
 Once the above command is successfull it will show the below output
 
