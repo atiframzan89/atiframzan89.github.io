@@ -41,7 +41,7 @@ usePageBundles = false
 # the originals to get the files included with Hugo Clarity.
 #
 # Images:
-imagesDir = "images/" # without a leading forward slash
+imagesDir = "../../images/" # without a leading forward slash
 # Icons:
 iconsDir = "icons/" # without a leading forward slash
 # Fonts:
