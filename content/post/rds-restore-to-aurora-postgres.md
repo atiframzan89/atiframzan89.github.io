@@ -8,7 +8,7 @@ categories = [
 ]
 thumbnail = "images/aurora-postgres-image.png"
 shareImage = "images/aurora-postgres-image.png"
-featureImage = "images/aurora-postgres-image.png"
+featureImage = "../../images/aurora-postgres-image.png"
 
 +++
 
