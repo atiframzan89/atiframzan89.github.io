@@ -6,7 +6,7 @@ description = "In this post we will take the dump of AWS RDS Postgres and restor
 categories = [
     "general"
 ]
-thumbnail = "images/aurora-postgres-image.png"
+thumbnail = "../../images/aurora-postgres-image.png"
 shareImage = "images/aurora-postgres-image.png"
 featureImage = "../../images/aurora-postgres-image.png"
 
